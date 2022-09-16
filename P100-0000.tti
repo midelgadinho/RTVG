@@ -1,8 +1,8 @@
-DE,
-PS,82C0
 PN,10000
 SC,0000
-RE,2
+PS,82c0
+CT,8,T
+OL,28,@@j|gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
 OL,2,RV    W        `0    
 OL,3,R V      W      ,$             
 OL,4,R V     W            "!    
@@ -20,3 +20,4 @@ OL,19,U]BLocais de Interesse...............800
 OL,20,W]FContactar a RTVG..................150
 OL,22,          HACom tecnologia VBI          
 OL,24,ANot]ciasBPrograma#aoCContactosFLocais  
+FL,200,500,150,800,1ff,100
