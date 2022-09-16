@@ -1,5 +1,5 @@
-PN,70100
-SC,0000
+PN,70101
+SC,0001
 PS,8280
 CT,10,T
 OL,2,T]W          tx     
@@ -22,3 +22,24 @@ OL,20,BTelefone: 967 293 073
 OL,21,CEmail: ticket2surf$gmail.com           
 OL,22,F(continua)                             
 OL,24,AEntradaBSurf CampCNot]ciasFPrograma#ao 
+FL,100,700,200,500,1ff,100
+PN,70102
+SC,0002
+PS,8280
+CT,10,T
+OL,28,@@j|gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,2,T]W          tx     
+OL,3,T]W pp             ?o      
+OL,4,T]V ##                 
+OL,5,T]V  +'                  
+OL,7,F(continua#ao)                          
+OL,9,E Instagram:                            
+OL,10,  $ticket2surfWpGlodgeWpGsurfWpGyoga    
+OL,12,D Facebook:                             
+OL,13,  Ticket2Surf                           
+OL,15,C Endere#o:                             
+OL,16,  Avenida dos Pescadores da Nossa       
+OL,17,  Senhora da Tocha,no. 33, Palheiros    
+OL,18,  da Tocha, Portugal                    
+OL,24,AEntradaBSurf CampCNot]ciasFPrograma#ao 
+FL,100,700,200,500,7ff,100

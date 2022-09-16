@@ -1,5 +1,5 @@
-PN,70300
-SC,0000
+PN,70301
+SC,0001
 PS,8280
 CT,10,T
 OL,2,T]W          tx     
@@ -24,3 +24,22 @@ OL,21,W t 480,<$,<$44<h, BTelefone:910 130 656
 OL,22,W 5e5=5 5  5 55?"k F(continua)          
 OL,23,W ! !!! ! ##!" #"#                      
 OL,24,AEntradaBSurf CampCNot]ciasFPrograma#ao 
+FL,100,700,200,500,1ff,100
+PN,70302
+SC,0002
+PS,8280
+CT,8,T
+OL,28,@@j|gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,2,T]W          tx     
+OL,3,T]W pp             ?o      
+OL,4,T]V ##                 
+OL,5,T]V  +'                  
+OL,7,F(continua#ao)                          
+OL,9, EInstagram:                            
+OL,10,  $seaWpGnativesWpGsurfcamp             
+OL,12, DFacebook:                             
+OL,13,  Sea Natives                           
+OL,15, CEmail:                                
+OL,16,  julia$sea-natives.com                 
+OL,24,AEntradaBSurf CampCNot]ciasFPrograma#ao 
+FL,100,700,200,500,7ff,100
