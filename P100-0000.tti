@@ -2,7 +2,6 @@ PN,10000
 SC,0000
 PS,82c0
 CT,8,T
-OL,28,@@j|gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
 OL,2,RV    W        `0    
 OL,3,R V      W      ,$             
 OL,4,R V     W            "!    
@@ -11,13 +10,13 @@ OL,6,Q            ]
 OL,7,Q } ~    QHULTIMAS NOTICIASI
 OL,8,Q   o ?     ]
 OL,9,Q   "!     ]      G P[gina 200        
-OL,14,R]DHist^ria da RTVG..................300
-OL,15,A]CCobertura de Emissores............400
-OL,16,S]DPrograma#ao.......................500
-OL,17,T]AContactos Locais..................600
-OL,18,V]ESurfing Camps.....................700
-OL,19,U]BLocais de Interesse...............800
-OL,20,W]FContactar a RTVG..................150
+OL,13,R]DHist^ria da RTVG..................300
+OL,14,A]CCobertura de Emissores............400
+OL,15,S]DPrograma#ao.......................500
+OL,16,T]AContactos Locais..................600
+OL,17,V]ESurfing Camps.....................700
+OL,18,U]BLocais de Interesse...............800
+OL,19,W]FContactar a RTVG..................150
+OL,20,  GQuizz RTVG........................190
 OL,22,          HACom tecnologia VBI          
 OL,24,ANot]ciasBPrograma#aoCContactosFLocais  
-FL,200,500,150,800,1ff,100
