@@ -1,8 +1,7 @@
-DE,
-PS,8280
 PN,46000
 SC,0000
-RE,2
+PS,8280
+CT,8,T
 OL,1,Q]W    t   (! t         
 OL,2,Q]W   t   t          pp  
 OL,3,Q]W  +   +          ##  
@@ -15,3 +14,4 @@ OL,14, HB  Trabalho pago + Estadia gr[tis +
 OL,15, HB      Comida e Bebida gr[tis!        
 OL,18,CContacto: $seaSpCnativesSpCsurfcamp    
 OL,24, AIn]cio BEntrada CSurf Camp FCobertura 
+FL,450,100,700,400,1ff,450
