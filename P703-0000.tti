@@ -24,7 +24,7 @@ OL,21,W t 480,<$,<$44<h, BTelefone:910 130 656
 OL,22,W 5e5=5 5  5 55?"k F(continua)          
 OL,23,W ! !!! ! ##!" #"#                      
 OL,24,AEntradaBSurf CampCNot]ciasFPrograma#ao 
-FL,100,700,200,500,1ff,100
+FL,100,700,200,500,1ff,700
 PN,70302
 SC,0002
 PS,8280
@@ -42,4 +42,4 @@ OL,13,  Sea Natives
 OL,15, CEmail:                                
 OL,16,  julia$sea-natives.com                 
 OL,24,AEntradaBSurf CampCNot]ciasFPrograma#ao 
-FL,100,700,200,500,7ff,100
+FL,100,700,200,500,7ff,700

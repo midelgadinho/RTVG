@@ -24,7 +24,7 @@ OL,20,W /55  }x555    B963 409 389
 OL,21,W 5|!, p57'5/,4, p5               
 OL,22,W  55 55 555 5  F(continua)  
 OL,24,AEntradaBSurf campCNot]ciasFPrograma#ao 
-FL,100,700,200,500,1ff,1ff
+FL,100,700,200,500,1ff,700
 PN,70202
 SC,0002
 PS,8280
@@ -42,4 +42,4 @@ OL,13,  Dreamsea Surf Camp
 OL,15, CEmail:                                
 OL,16,  portugal-centro$dreamseasurfcamp.com  
 OL,24,AEntradaBSurf campCNot]ciasFPrograma#ao 
-FL,100,700,200,500,7ff,7ff
+FL,100,700,200,500,7ff,700

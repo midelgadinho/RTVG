@@ -22,7 +22,7 @@ OL,20,BTelefone: 967 293 073
 OL,21,CEmail: ticket2surf$gmail.com           
 OL,22,F(continua)                             
 OL,24,AEntradaBSurf CampCNot]ciasFPrograma#ao 
-FL,100,700,200,500,1ff,100
+FL,100,700,200,500,1ff,700
 PN,70102
 SC,0002
 PS,8280
@@ -42,4 +42,4 @@ OL,16,  Avenida dos Pescadores da Nossa
 OL,17,  Senhora da Tocha,no. 33, Palheiros    
 OL,18,  da Tocha, Portugal                    
 OL,24,AEntradaBSurf CampCNot]ciasFPrograma#ao 
-FL,100,700,200,500,7ff,100
+FL,100,700,200,500,7ff,700
