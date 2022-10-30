@@ -1,14 +1,14 @@
-PN,40000
-SC,0000
+PN,40001
+SC,0001
 PS,8280
-CT,8,T
+CT,10,T
 OL,28,@@j|gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
 OL,2,V((     Q$$$$$$$$                       
 OL,3,Vbb     Qbbbbbbbb` FBairro              
 OL,4,V(      Q((((((((( FNorte               
 OL,5,Vb      Q"22222222                      
 OL,6,D Praia  Q$$$$$$$     CC O B E R T U R A
-OL,7,V`   Q0001111111           BRAT VFG     
+OL,7,Vb   Q0001111111           BRAT VFG     
 OL,8,V( Q $$$$$$$$$$$                        
 OL,9,V(Q`aaaaaaaaaaa!                        
 OL,10,V(Q$$$$$$$$$$$$                         
@@ -17,12 +17,43 @@ OL,12,Q $$$$$$$$$$BCampo fut.     HCLegenda:
 OL,13,Q 11111111110 AEstrada                  
 OL,14,Q $$$$$$$$$$$$$$$$$$$$$$$RB-Coberto    
 OL,15,Q 111111111100$""""""""" QA-Nao Coberto
-OL,16,Q $$R$$$$$Q$$            VF-Agua       
-OL,17,Q 11R111111Q1111                        
-OL,18,Q $$R$$$$$Q$$$$$                        
-OL,19,Q 1R1111111Q11!EP. Campismo             
-OL,20,Q $$$$$$$$$$$$$$                        
-OL,21,Q 11111!!!!!!!!!                        
-OL,22,Q $$$$                                  
+OL,16,Q $$$$$$$$$$$            VF-Agua       
+OL,17,Q 111R111Q1111111111(                   
+OL,18,Q $$$R$$$Q$$$$$$$$$$$a                  
+OL,19,Q 1111111111111EP. Campismo             
+OL,20,Q $$$$$$$$$$$$$$$$$$$$$&`               
+OL,21,Q 11111!!1111!11111111111               
+OL,22,Q $$$$  $$$$  $$$$$$$$$$$               
+OL,23,Q    1111111                            
 OL,24, AEntrada BNot]cias CLocais FSurf Camp  
 FL,100,200,800,700,1ff,100
+PN,40002
+SC,0002
+PS,8280
+CT,10,T
+OL,28,@@j|gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,V]                                      
+OL,2,V]       !     HA INFORMACOES DO CANAL  
+OL,3,V]T      "d     A                       
+OL,4,V]T     "d )0   G   Sistema PAL B/G     
+OL,5,V]T    )0 i j   G   Canal: 24 UHF       
+OL,6,V] T h `% j j   G                       
+OL,7,V] T j ! 8!`&   G  V]deo: 495,25 MHz    
+OL,8,V]Q T" 8!    G  [udio: 500,75 MHz    
+OL,9,V]Q T &      G                       
+OL,10,V]W           GLat: 40 19'40.34"N    
+OL,11,V]W           GLong: 8 50'33.78"W    
+OL,12,V]Q                       8! 8!   `& 
+OL,13,V]Q                      vppvppppx!  
+OL,14,V]W                 Q  `& `& 5  8!   
+OL,15,V]W                 Q  !  ! xu "     
+OL,16,V]Q                 Q     `~}0     
+OL,17,V]Q                 Q    xt    
+OL,18,V]W                 S        
+OL,19,R]W                 S    /o##?/    
+OL,20,R]Q                 S     j  5     
+OL,21,R]Q                 S    pz  up    
+OL,22,R]                     S    pp    
+OL,23,R]                                      
+OL,24, AEntrada BNot]cias CLocais FSurf Camp  
+FL,100,200,800,700,4ff,100
