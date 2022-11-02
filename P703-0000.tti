@@ -2,27 +2,27 @@ PN,70301
 SC,0001
 PS,8280
 CT,10,T
-OL,2,T]W          tx     
-OL,3,T]W pp             ?o      
-OL,4,T]V ##                 
-OL,5,T]V  +'                  
-OL,7,W      h0 x                             
-OL,8,W       mh%              U]Wx,,t  \     
-OL,9,S      ]W \             U]W56ij  \     
-OL,10,S    ]W >/d  \           U]Wu)&z  \     
-OL,11,S   ]W z  "4  \          U]W"##!  \     
-OL,12,S  ]W h%   m   \        HEInstagram     
-OL,13,S ]W h%     e   \                       
-OL,14,S ]W 6      "4  \        T]W x||  \     
-OL,15,S ]W:j# 7!`&d*0 \        T]W     \     
-OL,16,S ]W5"k 7!j,n i \        T]W   \     
-OL,17,W  6 "# #!" "  e&        T]W     \     
-OL,18,W  -,,,,,,,,,,ls        HDFacebook      
-OL,19,W  #/?////'s{}$                        
-OL,20,W   z%"+,&###+"!                        
-OL,21,W t 480,<$,<$44<h, BTelefone:910 130 656
-OL,22,W 5e5=5 5  5 55?"k F(continua)          
-OL,23,W ! !!! ! ##!" #"#                      
+OL,1,T]W          tx     
+OL,2,T]W pp             ?o      
+OL,3,T]V ##                 
+OL,4,T]V  +'                  
+OL,6,W      h0 x                             
+OL,7,W       mh%              U]Wx,,t  \     
+OL,8,S      ]W \             U]W56ij  \     
+OL,9,S    ]W >/d  \           U]Wu)&z  \     
+OL,10,S   ]W z  "4  \          U]W"##!  \     
+OL,11,S  ]W h%   m   \        HEInstagram     
+OL,12,S ]W h%     e   \                       
+OL,13,S ]W 6      "4  \        T]W x||  \     
+OL,14,S ]W:j# 7!`&d*0 \        T]W     \     
+OL,15,S ]W5"k 7!j,n i \        T]W   \     
+OL,16,W  6 "# #!" "  e&        T]W     \     
+OL,17,W  -,,,,,,,,,,ls        HDFacebook      
+OL,18,W  #/?////'s{}$                        
+OL,19,W   z%"+,&###+"!                        
+OL,20,W t 480,<$,<$44<h, BTelefone:910 130 656
+OL,21,W 5e5=5 5  5 55?"k F(continua)          
+OL,22,W ! !!! ! ##!" #"#                      
 OL,24,AEntradaBSurf CampCNot]ciasFPrograma#ao 
 FL,100,700,200,500,1ff,700
 PN,70302
@@ -30,16 +30,16 @@ SC,0002
 PS,8280
 CT,8,T
 OL,28,@@j|gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
-OL,2,T]W          tx     
-OL,3,T]W pp             ?o      
-OL,4,T]V ##                 
-OL,5,T]V  +'                  
-OL,7,F(continua#ao)                          
-OL,9, EInstagram:                            
-OL,10,  $seaWpGnativesWpGsurfcamp             
-OL,12, DFacebook:                             
-OL,13,  Sea Natives                           
-OL,15, CEmail:                                
-OL,16,  julia$sea-natives.com                 
+OL,1,T]W          tx     
+OL,2,T]W pp             ?o      
+OL,3,T]V ##                 
+OL,4,T]V  +'                  
+OL,6,F(continua#ao)                          
+OL,8, EInstagram:                            
+OL,9,  $seaWpGnativesWpGsurfcamp             
+OL,11, DFacebook:                             
+OL,12,  Sea Natives                           
+OL,14, CEmail:                                
+OL,15,  julia$sea-natives.com                 
 OL,24,AEntradaBSurf CampCNot]ciasFPrograma#ao 
 FL,100,700,200,500,7ff,700

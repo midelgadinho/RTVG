@@ -3,28 +3,28 @@ SC,0001
 PS,8280
 CT,10,T
 OL,28,@@j|gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
-OL,2,V((     Q$$$$$$$$                       
-OL,3,Vbb     Qbbbbbbbb` FBairro              
-OL,4,V(      Q((((((((( FNorte               
-OL,5,Vb      Q"22222222                      
-OL,6,D Praia  Q$$$$$$$     CC O B E R T U R A
-OL,7,Vb   Q0001111111           BRAT VFG     
-OL,8,V( Q $$$$$$$$$$$                        
-OL,9,V(Q`aaaaaaaaaaa!                        
-OL,10,V(Q$$$$$$$$$$$$                         
-OL,11,V(Q111111111bbbCP.Merendas              
-OL,12,Q $$$$$$$$$$BCampo fut.     HCLegenda:  
-OL,13,Q 11111111110 AEstrada                  
-OL,14,Q $$$$$$$$$$$$$$$$$$$$$$$RB-Coberto    
-OL,15,Q 111111111100$""""""""" QA-Nao Coberto
-OL,16,Q $$$$$$$$$$$            VF-Agua       
-OL,17,Q 111R111Q1111111111(                   
-OL,18,Q $$$R$$$Q$$$$$$$$$$$a                  
-OL,19,Q 1111111111111EP. Campismo             
-OL,20,Q $$$$$$$$$$$$$$$$$$$$$&`               
-OL,21,Q 11111!!1111!11111111111               
-OL,22,Q $$$$  $$$$  $$$$$$$$$$$               
-OL,23,Q    1111111                            
+OL,2,S1111111 Q$$$$$$$$                      
+OL,3,S$$$$$$$^Qbbbbbbbb` FBairro             
+OL,4,S1111111^Q((((((((( FNorte              
+OL,5,S$$$$$$$^Q"2222222"                     
+OL,6,S$^CPraia^Q$$$$$$     CC O B E R T U R A
+OL,7,S1111^Q0001111111          BRAT VFG     
+OL,8,S$$^Q$$$$$$$$$$$$                       
+OL,9,S$^Q`aaaaaaaaaaa!                       
+OL,10,S$^Q$$$$$$$$$                           
+OL,11,S$^Q111111110 `XCP.Merendas             
+OL,12,Q ^$$$$$$$$$$BCampo fut.    HCLegenda:  
+OL,13,Q ^11111111111!AEstrada                 
+OL,14,Q ^$$$$$$$$$$$$$$$$$$$$$$RB-Coberto    
+OL,15,Q ^111111111100$"""""""""QA-Nao Coberto
+OL,16,Q ^$R$$$Q$$$$$           VF-Agua       
+OL,17,Q ^1R111Q11111111                       
+OL,18,Q ^$$$$$$$$$$$$$                        
+OL,19,Q ^1111111111111EP. Campismo            
+OL,20,Q ^$$$$  $$$$$$$                        
+OL,21,Q ^1111  !1111111                       
+OL,22,Q ^       $$$$$                         
+OL,23,Q                                       
 OL,24, AEntrada BNot]cias CLocais FSurf Camp  
 FL,100,200,800,700,1ff,100
 PN,40002

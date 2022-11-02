@@ -2,19 +2,19 @@ PN,15000
 SC,0000
 PS,8280
 CT,8,T
-OL,2,T]W xt 0           
-OL,3,T]W      t                 
-OL,4,T]U      "                
-OL,5, ]U +'  "               
-OL,7,BCaso deseje contactar-nos   RV   
-OL,8,Bou ficar a par das nossas   R V     
-OL,9,Bnovidades,consulte os       R V    
-OL,10,Bnossos meios de contacto    R V   
-OL,11,Baqui.                                  
-OL,12,                             Q } ~   
-OL,13,EInstagram:                  Q       
-OL,14, $rtvg.portugal              Q   "!   
-OL,16,FTwitter                                
-OL,17, $rtvgportugal                          
+OL,1,T]W xt 0           
+OL,2,T]W      t                 
+OL,3,T]U      "                
+OL,4, ]U +'  "               
+OL,6,BCaso deseje contactar-nos   RV   
+OL,7,Bou ficar a par das nossas   R V     
+OL,8,Bnovidades,consulte os       R V    
+OL,9,Bnossos meios de contacto    R V   
+OL,10,Baqui.                                  
+OL,11,                             Q } ~   
+OL,12,EInstagram:                  Q       
+OL,13, $rtvg.portugal              Q   "!   
+OL,15,FTwitter                                
+OL,16, $rtvgportugal                          
 OL,24, AEntrada BLocais CAn_ncios FSurf Camp  
 FL,100,800,450,700,1ff,100
