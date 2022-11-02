@@ -1,51 +1,23 @@
-PN,10001
-SC,0001
-PS,8000
-CT,8,T
-OL,1,T  )#f ( x ,0`$8,  pp$$! S    0    T$0  
-OL,2,T  $         "%   ,   $,+S   z0   T $$ 
-OL,3,T  $($$ !  , d $  $`d   $S "o'  T$0  
-OL,4,T ($ $9 )  $$  $<   `    S  `~ot   T    
-OL,5,T $!, !                ""S  /! +%  T!,  
-OL,6,  R t0  WH          IR     ~0  
-OL,7,  R/k%  WH          p'   IR  `p/!/$ 
-OL,8,R p>}3vl0 WH# #    x'    IR xy={}-
-OL,9,R.w~gz}0WH        IRhzwa? ?
-OL,10,R}"py?                     R"w+!n?
-OL,11,R$%`=                     R "/#,% *!
-OL,12, Q~}hpR"QH t         IQ p}d ~}  
-OL,13, Q"!.#R QH j4        IQ  wp "!  
-OL,14,R6x}5~} QH "5      IR>!|4|h(| 
-OL,15,Rao0k/pQH +       IR%?}~%zvu
-OL,16,Rko}0o'                     Rz'~0k>}?
-OL,17,R6zl?h~%QH/////////ppppppppIRdo!~g%
-OL,18,R*&!"#o0QH         #########IR*o!"+w' 
-OL,19,W  p|}p                           `x}p0 
-OL,20,Wx'so/pppp`pp ppppp` ppp pppp?ot/t
-OL,21,W{s{c/~/r{o//ot;/v|/}~{
-OL,22,W'/+/us}/+}~///ow{|#
-OL,23,W+~|~{s'p{~s|s/{
-PN,10002
-SC,0002
+PN,10000
+SC,0000
 PS,82c0
 CT,8,T
-OL,2,RV    W        `~}0    
+OL,2,RV    W        `0    
 OL,3,R V      W      ,$             
-OL,4,R V     W            "o?!    
+OL,4,R V     W            "!    
 OL,5,R V                                
 OL,6,Q            ]
 OL,7,Q } ~    QHULTIMAS NOTICIASI
 OL,8,Q   o ?     ]
 OL,9,Q   "!     ]      G P[gina 200        
-OL,12,R]DHist^ria da RTVG..................300
-OL,13,Q]CCobertura de Emissores............400
-OL,14,S]DPrograma#ao.......................500
-OL,15,T]AContactos Locais..................600
-OL,16,V]ESurfing Camps.....................700
-OL,17,U]BLocais de Interesse...............800
-OL,18,W]DContactar a RTVG..................150
-OL,19,Q]GQuizz RTVG........................190
-OL,20,T]GAn_ncios..........................450
+OL,13,R]DHist^ria da RTVG..................300
+OL,14,A]CCobertura de Emissores............400
+OL,15,S]DPrograma#ao.......................500
+OL,16,T]AContactos Locais..................600
+OL,17,V]ESurfing Camps.....................700
+OL,18,U]BLocais de Interesse...............800
+OL,19,W]FContactar a RTVG..................150
+OL,20,  GQuizz RTVG........................190
 OL,22,          HACom tecnologia VBI          
 OL,24,ANot]ciasBPrograma#aoCContactosFLocais  
 FL,200,500,600,800,1ff,100
